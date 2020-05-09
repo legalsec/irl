@@ -1,68 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A blog designed to capture and portray all the amazing things the world has to offer. A blog to help me learn to deeply absorb and appreciate all the things that nobody could hope to squeeze into a single lifetime, in body.
 
-## Available Scripts
+The internet is a wonderful place that allows anyone to experience anything; it's just difficult to grasp the gravity of digital things – difficult but, with practice, I have to believe possible.
 
-In the project directory, you can run:
+--------------------------------------------------------------------------------
+CONCEPT
 
-### `npm start`
+To ‘do’ something different and interesting and briefly, but completely, write about the experience. To write in a way that clearly identifies the senses at play and the emotions evoked, and more. Furthermore, the writing itself should be from the position of actually being there in body as-well-as spirit, such that anyone happening upon the blog without first reading this README, would believe that the writer was physically in attendance.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+--------------------------------------------------------------------------------
+CAVEATS – holes which break the concept, but are aside from the point.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+1. I appreciate that a blog is best accompanied by images – which due to the nature of the blog, would not be first hand images. It would be relatively easy for someone to work out that a write-up was based on something seen online, given that the images will be from the original sources (or at least, from some other third party source depicting similar substance).
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+2. That it will be clearly obvious to many that these experiences cannot be real; who in the world is able to walk on the moon one day, and deep sea dive the next – and further yet, who would have time to write about it if they did?
